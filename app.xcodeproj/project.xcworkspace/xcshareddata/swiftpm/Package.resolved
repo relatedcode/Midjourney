@@ -1,4 +1,5 @@
 {
+  "originHash" : "5c7e99cdd8375f4d0c1f0590a8c010253a7b913443ffe2e5d5de70842b0827b7",
   "pins" : [
     {
       "identity" : "devicekit",
@@ -14,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/kaishin/Gifu.git",
       "state" : {
-        "revision" : "82da0086dea14ca9afc9801234ad8dc4cd9e2738",
-        "version" : "3.4.1"
+        "revision" : "46434cd816f035271beb16d80f7bc91381cbd8e4",
+        "version" : "3.5.1"
       }
     },
     {
@@ -28,5 +29,5 @@
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
